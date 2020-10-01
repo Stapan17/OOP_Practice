@@ -78,11 +78,11 @@ one::operator float()
 int main()
 {
 
-    cout << "\nEnter First  Numbers ";
+    cout << "\nEnter First  Number ";
     int x1, y1;
     cin >> x1 >> y1;
 
-    cout << "Enter First  Numbers ";
+    cout << "Enter First  Number ";
     int x2, y2;
     cin >> x2 >> y2;
 
